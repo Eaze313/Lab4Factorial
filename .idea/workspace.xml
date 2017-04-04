@@ -16,7 +16,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Lab4Factorial.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lab4Factorial.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bootcamp/Lab4Factorial.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -54,6 +54,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=",gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/,gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -77,6 +87,7 @@
         <option value="$PROJECT_DIR$/src/bootcamp/Validation.java" />
         <option value="$PROJECT_DIR$/src/bootcamp/GreetExit.java" />
         <option value="$PROJECT_DIR$/src/bootcamp/Lab4Factorial.java" />
+        <option value="$PROJECT_DIR$/,gitignore" />
       </list>
     </option>
   </component>
@@ -565,12 +576,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491215962588</updated>
-      <workItem from="1491215967022" duration="3739000" />
+      <workItem from="1491215967022" duration="4728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3739000" />
+    <option name="totallyTimeSpent" value="4728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="-1" width="1370" height="752" extended-state="0" />
@@ -651,6 +662,14 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/,gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
