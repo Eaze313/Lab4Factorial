@@ -54,11 +54,11 @@ public class Lab4Factorial {
 
 
     public static long factorial(int n) {
-        long factorial = 1;
-        for (int i = 1; i <= n; i++) {
-            factorial = factorial * i;
+        if (n == 0) {
+            return 1;
+        } else {
+            return n * factorial(n - 1);
         }
-        return factorial;
     }
 
 }
